@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <title>DevJobs - Detalle del empleo</title>
+    <meta charset="UTF-8" />
+
+    <meta
+      name="description"
+      content="Consulta los detalles de una oferta de empleo."
+    />
+
+    <link rel="stylesheet" href="./styles.css" />
+
+    <script type="module" src="./empleo-detalle.js"></script>
+  </head>
+
+  <body>
+    <header>
+      <h1>
+        <svg
+          fill="none"
+          stroke="currentColor"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          viewBox="0 0 24 24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <polyline points="16 18 22 12 16 6"></polyline>
+          <polyline points="8 6 2 12 8 18"></polyline>
+        </svg>
+
+        DevJobs
+      </h1>
+
+      <nav>
+        <a href="./index.html">Inicio</a>
+        <a href="./empleos.html">Empleos</a>
+      </nav>
+
+      <div>
+        <devjobs-avatar
+          service="google"
+          username="google.com"
+          size="32"
+        ></devjobs-avatar>
+
+        <devjobs-avatar
+          service="google"
+          username="netflix.com"
+          size="32"
+        ></devjobs-avatar>
+
+        <devjobs-avatar
+          service="google"
+          username="vercel.com"
+          size="32"
+        ></devjobs-avatar>
+      </div>
+    </header>
+
+    <main class="job-detail">
+      <a class="back-to-jobs" href="./empleos.html"> ← Volver a empleos </a>
+
+      <section class="job-detail-header">
+        <div>
+          <h1 id="job-title"></h1>
+
+          <p class="job-company">
+            <span id="job-company"></span>
+            <span> · </span>
+            <span id="job-location"></span>
+          </p>
+
+          <div class="job-tags">
+            <span id="job-level"></span>
+            <span id="job-modality"></span>
+          </div>
+        </div>
+
+        <button id="apply-button" class="button-apply-job">Aplicar</button>
+      </section>
+
+      <div class="job-detail-content">
+        <article class="job-detail-main">
+          <section>
+            <h2>Descripción del empleo</h2>
+            <p id="job-description"></p>
+          </section>
+
+          <section>
+            <h2>Responsabilidades</h2>
+            <ul id="job-responsibilities"></ul>
+          </section>
+
+          <section>
+            <h2>Requisitos</h2>
+            <ul id="job-requirements"></ul>
+          </section>
+
+          <section>
+            <h2>Acerca de la empresa</h2>
+            <p id="job-company-description"></p>
+          </section>
+        </article>
+      </div>
+    </main>
+
+    <footer>
+      <small>&copy; 2026 DevJobs. Todos los derechos reservados.</small>
+    </footer>
+  </body>
+</html>

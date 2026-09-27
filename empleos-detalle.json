@@ -1,0 +1,287 @@
+[
+  {
+    "empleoId": "7a4d1d8b-1e45-4d8c-9f1a-8c2f9a9121a4",
+    "descripcionDetallada": "Buscamos un ingeniero de software para participar en el desarrollo y evolución de aplicaciones web. Trabajará junto con otros desarrolladores para implementar nuevas funcionalidades, mejorar aplicaciones existentes y mantener una buena calidad del código.",
+    "responsabilidades": [
+      "Desarrollar y mantener aplicaciones web.",
+      "Implementar nuevas funcionalidades utilizando JavaScript, React y Node.js.",
+      "Participar en la revisión y mejora del código.",
+      "Colaborar con diseñadores y otros desarrolladores.",
+      "Resolver problemas técnicos y corregir errores."
+    ],
+    "requisitos": [
+      "Experiencia en desarrollo de aplicaciones web.",
+      "Conocimientos sólidos de JavaScript.",
+      "Experiencia con React y Node.js.",
+      "Capacidad para trabajar en equipo.",
+      "Buenas habilidades de comunicación."
+    ],
+    "descripcionDeEmpresa": "Tech Solutions Inc. es una empresa dedicada al desarrollo de soluciones tecnológicas y aplicaciones web para diferentes tipos de clientes y necesidades empresariales."
+  },
+  {
+    "empleoId": "d35b2c89-5d60-4f26-b19a-6cfb2f1a0f57",
+    "descripcionDetallada": "Buscamos un analista de datos encargado de transformar grandes conjuntos de información en datos útiles para la toma de decisiones. El puesto requiere trabajar con herramientas de análisis y visualización.",
+    "responsabilidades": [
+      "Analizar grandes conjuntos de datos.",
+      "Preparar y limpiar información para su análisis.",
+      "Crear reportes y visualizaciones.",
+      "Identificar tendencias y patrones en los datos.",
+      "Colaborar con diferentes áreas de la empresa."
+    ],
+    "requisitos": [
+      "Conocimientos de SQL.",
+      "Experiencia o conocimientos en Python.",
+      "Conocimientos de R.",
+      "Capacidad de análisis.",
+      "Conocimientos de herramientas de visualización de datos."
+    ],
+    "descripcionDeEmpresa": "Data Driven Co. desarrolla soluciones orientadas al análisis y aprovechamiento de datos para apoyar la toma de decisiones empresariales."
+  },
+  {
+    "empleoId": "e31f9a92-61d7-4b7a-b3a2-91e8c1f40b2d",
+    "descripcionDetallada": "Buscamos un desarrollador de aplicaciones móviles para participar en la creación y mantenimiento de aplicaciones para dispositivos iOS y Android.",
+    "responsabilidades": [
+      "Desarrollar funcionalidades para aplicaciones móviles.",
+      "Crear interfaces de usuario para dispositivos móviles.",
+      "Mantener y mejorar aplicaciones existentes.",
+      "Identificar y solucionar errores.",
+      "Colaborar con otros miembros del equipo de desarrollo."
+    ],
+    "requisitos": [
+      "Experiencia en desarrollo para iOS y/o Android.",
+      "Conocimientos de Swift y/o Kotlin.",
+      "Conocimientos de diseño de interfaces de usuario.",
+      "Capacidad para resolver problemas técnicos.",
+      "Trabajo colaborativo."
+    ],
+    "descripcionDeEmpresa": "Mobile Apps Ltd. se especializa en el desarrollo de aplicaciones móviles para diferentes plataformas y necesidades digitales."
+  },
+  {
+    "empleoId": "f62d8a34-923a-4ac2-9b0b-14e0ac2f5405",
+    "descripcionDetallada": "Buscamos un ingeniero de DevOps para gestionar infraestructura tecnológica, automatizar procesos y contribuir a la implementación de prácticas de integración y entrega continua.",
+    "responsabilidades": [
+      "Gestionar infraestructura en la nube.",
+      "Automatizar procesos de desarrollo y despliegue.",
+      "Implementar y mantener pipelines de CI/CD.",
+      "Monitorear servicios e infraestructura.",
+      "Colaborar con equipos de desarrollo y operaciones."
+    ],
+    "requisitos": [
+      "Experiencia en infraestructura cloud.",
+      "Conocimientos de AWS, Azure o GCP.",
+      "Conocimientos de automatización.",
+      "Conocimientos de integración continua.",
+      "Capacidad para resolver problemas de infraestructura."
+    ],
+    "descripcionDeEmpresa": "Cloud Services SA ofrece servicios tecnológicos relacionados con infraestructura, computación en la nube y soluciones para empresas."
+  },
+  {
+    "empleoId": "a9f31a8e-ec38-4fd3-9114-88cc6d37a92b",
+    "descripcionDetallada": "Buscamos un diseñador UX/UI encargado de crear experiencias digitales claras, funcionales y centradas en las necesidades de los usuarios.",
+    "responsabilidades": [
+      "Diseñar interfaces digitales.",
+      "Crear prototipos y flujos de usuario.",
+      "Trabajar con Figma.",
+      "Realizar mejoras basadas en las necesidades de los usuarios.",
+      "Colaborar con equipos de desarrollo."
+    ],
+    "requisitos": [
+      "Experiencia utilizando Figma.",
+      "Conocimientos de UX/UI.",
+      "Conocimientos de diseño centrado en el usuario.",
+      "Capacidad para trabajar con equipos multidisciplinarios.",
+      "Portafolio de proyectos de diseño."
+    ],
+    "descripcionDeEmpresa": "Creative Minds Studio desarrolla experiencias digitales y productos centrados en las necesidades de los usuarios."
+  },
+  {
+    "empleoId": "c1b65b42-68c5-4f1c-a8c2-8d52c5a7a5d1",
+    "descripcionDetallada": "Se busca un administrador de bases de datos responsable de mantener la disponibilidad, seguridad y rendimiento de las bases de datos utilizadas por la organización.",
+    "responsabilidades": [
+      "Administrar bases de datos de producción.",
+      "Supervisar disponibilidad y rendimiento.",
+      "Realizar tareas de mantenimiento.",
+      "Implementar medidas de seguridad.",
+      "Resolver incidencias relacionadas con bases de datos."
+    ],
+    "requisitos": [
+      "Experiencia con PostgreSQL.",
+      "Conocimientos de MySQL.",
+      "Conocimientos de administración de bases de datos.",
+      "Conocimientos de seguridad de datos.",
+      "Capacidad para diagnosticar problemas de rendimiento."
+    ],
+    "descripcionDeEmpresa": "Secure Data Corp. desarrolla y administra soluciones orientadas al almacenamiento, seguridad y gestión de información empresarial."
+  },
+  {
+    "empleoId": "bb8f2a99-6a20-4f9e-912a-16f54a49b8c3",
+    "descripcionDetallada": "Buscamos un especialista en ciberseguridad para contribuir a la protección de infraestructuras tecnológicas, identificación de vulnerabilidades y respuesta ante incidentes.",
+    "responsabilidades": [
+      "Analizar vulnerabilidades de sistemas.",
+      "Monitorear eventos de seguridad.",
+      "Participar en la respuesta ante incidentes.",
+      "Implementar medidas de protección.",
+      "Analizar información proveniente de herramientas SIEM."
+    ],
+    "requisitos": [
+      "Conocimientos de ciberseguridad.",
+      "Conocimientos de análisis de vulnerabilidades.",
+      "Conocimientos de protección de infraestructura.",
+      "Conocimientos de respuesta ante incidentes.",
+      "Se valorarán certificaciones de seguridad."
+    ],
+    "descripcionDeEmpresa": "SafeNet Solutions desarrolla soluciones orientadas a la protección de infraestructura y seguridad de sistemas tecnológicos."
+  },
+  {
+    "empleoId": "fe7b2c54-4f47-4e2b-9e87-2b5413a6b24f",
+    "descripcionDetallada": "Buscamos un Product Manager para participar en la definición, planificación y lanzamiento de productos digitales, coordinando las necesidades del negocio con los equipos de desarrollo.",
+    "responsabilidades": [
+      "Definir funcionalidades y objetivos del producto.",
+      "Participar en la planificación de productos digitales.",
+      "Analizar información para apoyar decisiones.",
+      "Coordinar con equipos multidisciplinarios.",
+      "Dar seguimiento al lanzamiento de productos."
+    ],
+    "requisitos": [
+      "Experiencia en gestión de productos digitales.",
+      "Capacidad analítica.",
+      "Habilidades de liderazgo.",
+      "Conocimientos de metodologías ágiles.",
+      "Capacidad de comunicación y coordinación."
+    ],
+    "descripcionDeEmpresa": "NextGen Technologies desarrolla productos y soluciones digitales orientados a diferentes necesidades del mercado tecnológico."
+  },
+  {
+    "empleoId": "a71f7a92-56d9-4b42-9f16-cb29b40e5f2c",
+    "descripcionDetallada": "Buscamos un desarrollador frontend para construir interfaces web modernas y optimizadas utilizando React, TypeScript y Tailwind CSS.",
+    "responsabilidades": [
+      "Desarrollar interfaces web.",
+      "Implementar componentes reutilizables.",
+      "Trabajar con React y TypeScript.",
+      "Optimizar el rendimiento de las aplicaciones.",
+      "Aplicar buenas prácticas de accesibilidad web."
+    ],
+    "requisitos": [
+      "Experiencia con React.",
+      "Conocimientos de TypeScript.",
+      "Conocimientos de Tailwind CSS.",
+      "Conocimientos de optimización web.",
+      "Conocimientos de accesibilidad web."
+    ],
+    "descripcionDeEmpresa": "Bright Web Studio se especializa en el desarrollo de sitios y aplicaciones web modernas."
+  },
+  {
+    "empleoId": "f91e4c7b-3840-43da-8ad7-3a52e2a8cf1d",
+    "descripcionDetallada": "Buscamos un desarrollador backend para construir y mantener servicios y APIs utilizando Node.js, Express y tecnologías de bases de datos NoSQL.",
+    "responsabilidades": [
+      "Desarrollar servicios backend.",
+      "Crear y mantener APIs.",
+      "Trabajar con Node.js y Express.",
+      "Integrar bases de datos NoSQL.",
+      "Participar en el diseño de arquitecturas de microservicios."
+    ],
+    "requisitos": [
+      "Experiencia con Node.js.",
+      "Conocimientos de Express.",
+      "Experiencia o conocimientos en bases de datos NoSQL.",
+      "Conocimientos de APIs.",
+      "Conocimientos de arquitectura de microservicios."
+    ],
+    "descripcionDeEmpresa": "APIWorks desarrolla servicios backend, APIs y soluciones orientadas a arquitecturas modernas de software."
+  },
+  {
+    "empleoId": "b65a3c9f-b174-4d86-b8a2-9cf9b1e13a22",
+    "descripcionDetallada": "Buscamos un ingeniero de Machine Learning para desarrollar modelos de predicción y soluciones de procesamiento de datos orientadas a productos tecnológicos.",
+    "responsabilidades": [
+      "Desarrollar modelos de machine learning.",
+      "Procesar y preparar datos.",
+      "Evaluar modelos predictivos.",
+      "Colaborar con equipos de ingeniería.",
+      "Participar en procesos relacionados con MLOps."
+    ],
+    "requisitos": [
+      "Experiencia con modelos de machine learning.",
+      "Conocimientos de procesamiento de datos.",
+      "Conocimientos de TensorFlow o PyTorch.",
+      "Conocimientos de Python.",
+      "Se valorarán conocimientos de MLOps."
+    ],
+    "descripcionDeEmpresa": "AI Labs trabaja en el desarrollo de soluciones basadas en inteligencia artificial y machine learning."
+  },
+  {
+    "empleoId": "e8d13c45-36cb-46cf-8f9d-8a0a7b532b8b",
+    "descripcionDetallada": "Se busca un ingeniero de QA especializado en automatización de pruebas para garantizar la calidad y confiabilidad de aplicaciones de software.",
+    "responsabilidades": [
+      "Diseñar y ejecutar pruebas automatizadas.",
+      "Identificar y documentar errores.",
+      "Mantener pruebas automatizadas.",
+      "Colaborar con desarrolladores.",
+      "Participar en procesos de integración continua."
+    ],
+    "requisitos": [
+      "Experiencia en automatización de pruebas.",
+      "Conocimientos de Selenium, Cypress o Playwright.",
+      "Conocimientos de pruebas de software.",
+      "Capacidad para documentar incidencias.",
+      "Conocimientos de CI/CD."
+    ],
+    "descripcionDeEmpresa": "Quality First ofrece servicios y soluciones orientadas al aseguramiento de la calidad de productos de software."
+  },
+  {
+    "empleoId": "d2e93b8a-0b41-4d09-9a52-36a0f418d493",
+    "descripcionDetallada": "Buscamos un administrador de sistemas para mantener y supervisar servidores, infraestructura Linux y servicios desplegados en diferentes entornos.",
+    "responsabilidades": [
+      "Administrar servidores Linux.",
+      "Supervisar servicios y servidores.",
+      "Trabajar con Docker.",
+      "Realizar tareas de mantenimiento.",
+      "Automatizar tareas mediante scripting."
+    ],
+    "requisitos": [
+      "Experiencia con Linux.",
+      "Conocimientos de Docker.",
+      "Conocimientos de monitoreo de servidores.",
+      "Conocimientos de Bash o Python.",
+      "Capacidad para solucionar incidencias de infraestructura."
+    ],
+    "descripcionDeEmpresa": "InfraTech Global ofrece servicios relacionados con infraestructura tecnológica, servidores y administración de sistemas."
+  },
+  {
+    "empleoId": "cc0c1fae-4e85-4e2c-9b02-f12f9df8a2c9",
+    "descripcionDetallada": "Estamos buscando un Scrum Master para facilitar la colaboración de equipos multidisciplinarios y promover la aplicación de metodologías ágiles.",
+    "responsabilidades": [
+      "Facilitar ceremonias Scrum.",
+      "Promover buenas prácticas ágiles.",
+      "Ayudar al equipo a identificar impedimentos.",
+      "Facilitar la comunicación entre los participantes.",
+      "Dar seguimiento a la mejora continua del equipo."
+    ],
+    "requisitos": [
+      "Experiencia con metodologías ágiles.",
+      "Conocimientos de Scrum.",
+      "Experiencia trabajando con equipos multidisciplinarios.",
+      "Buenas habilidades de comunicación.",
+      "Certificación Scrum Master deseable."
+    ],
+    "descripcionDeEmpresa": "Agile Minds trabaja con equipos y organizaciones en la implementación de metodologías ágiles y mejora de procesos."
+  },
+  {
+    "empleoId": "a2f1d8c6-b72c-45f5-bcc5-5c1d1f39b0b1",
+    "descripcionDetallada": "Buscamos un técnico de soporte para atender incidencias de usuarios, diagnosticar problemas técnicos y brindar soluciones relacionadas con redes y sistemas operativos.",
+    "responsabilidades": [
+      "Atender incidencias de usuarios.",
+      "Diagnosticar problemas de hardware y software.",
+      "Resolver incidencias relacionadas con redes.",
+      "Brindar soporte sobre sistemas operativos.",
+      "Registrar y realizar seguimiento de incidencias."
+    ],
+    "requisitos": [
+      "Conocimientos de soporte técnico.",
+      "Conocimientos básicos de redes.",
+      "Conocimientos de sistemas operativos.",
+      "Capacidad para diagnosticar problemas.",
+      "Buenas habilidades de atención al usuario."
+    ],
+    "descripcionDeEmpresa": "HelpDesk Pro ofrece servicios de soporte técnico y atención de incidencias para usuarios y organizaciones."
+  }
+]
